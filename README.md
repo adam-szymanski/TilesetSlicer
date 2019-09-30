@@ -5,7 +5,7 @@ Basically it transform this:
 ![Image with tiles.](https://raw.githubusercontent.com/adam-szymanski/TilesetSlicer/master/example/tiles_example.png "Example tileset")
 
 By running this:
-go run TilesetSlicer.go -file example/tiles_example.png -w 50 -h 50 -out example/tiles -out_filename tile_
+`go run TilesetSlicer.go -file example/tiles_example.png -w 50 -h 50 -out example/tiles -out_filename tile_`
 
 Into this:
 ![Tile 0](https://raw.githubusercontent.com/adam-szymanski/TilesetSlicer/master/example/tiles/tile_000.png "Tile 0")
